@@ -9,7 +9,6 @@
 TheLab75/TheLab75 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1 align="center">Hi 👋, I'm Louis</h1>
 <h3 align="center">Passionate about ⚛️ Data 🔬 Science 🧪 Innovation 🌱 Environmental topics</h3>
 
 - 🔭 I’m currently open to **work & collaborations**
